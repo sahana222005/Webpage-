@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OOTY TOURISTS PLACE</title>
+    <style>
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin: 20px auto;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+<center  <b>UNIQUE</b></center>
+    <h1 style="text-align: center;">OOTY TOURIST PLACE</h1>
+    <table>
+        <tr>
+            <th>place</th>
+            <th>km</th>
+            <th>--</th>
+        </tr>
+        <tr>
+            <td>rose garden</td>
+            <td>28</td>
+            <td>------</td>
+        </tr>
+        <tr>
+            <td>botanical garden</td>
+            <td>34</td>
+            <td>-----</td>
+        </tr>
+        <tr>
+            <td>boathouse</td>
+            <td>23</td>
+            <td>----</td>
+        </tr>
+    </table>
+</body>
+</html>
